@@ -5,11 +5,9 @@ This C++ program simulates a basic bank management system.
 <br>
 It utilizes object-oriented programming concepts with classes for Bank, Customer, and Account.
 <br>
+
 <b>
-
-
 Classes:
-
 </b>
 <br>
 <b>
